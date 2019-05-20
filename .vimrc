@@ -42,6 +42,8 @@ call plug#end()
 
 let mapleader = ","
 
+set backspace=2
+
 set number
 
 " Sets how many lines of history VIM has to remember
